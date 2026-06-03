@@ -5,7 +5,6 @@ A continuous, organized workspace dedicated to mastering Data Structures and Alg
 ---
 
 ## 👤 Profile & Stats
-* **LeetCode Profile:** [@nayana649](https://leetcode.com/u/nayana649/)
 * **Primary Language:** Python 3 (`.py`) 🐍
 * **Target:** 300+ Quality Solutions 🎯
 
