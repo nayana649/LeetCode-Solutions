@@ -74,6 +74,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0111-minimum-depth-of-binary-tree](https://github.com/nayana649/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nayana649/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -97,6 +98,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0111-minimum-depth-of-binary-tree](https://github.com/nayana649/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nayana649/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## String
 |  |
 | ------- |
@@ -111,6 +113,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0111-minimum-depth-of-binary-tree](https://github.com/nayana649/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nayana649/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -138,4 +141,12 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nayana649/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nayana649/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nayana649/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
