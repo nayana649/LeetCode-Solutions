@@ -55,6 +55,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0115-distinct-subsequences](https://github.com/nayana649/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/nayana649/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/nayana649/LeetCode-Solutions/tree/master/0120-triangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -144,6 +145,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nayana649/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/nayana649/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/nayana649/LeetCode-Solutions/tree/master/0120-triangle) |
 ## Hash Table
 |  |
 | ------- |
