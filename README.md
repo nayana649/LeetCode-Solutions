@@ -57,6 +57,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0119-pascals-triangle-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/nayana649/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nayana649/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -148,6 +149,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0119-pascals-triangle-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/nayana649/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nayana649/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,4 +171,8 @@ To ensure the solutions here are ready for production/interviews, every submitte
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
