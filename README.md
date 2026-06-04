@@ -191,6 +191,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0138-copy-list-with-random-pointer](https://github.com/nayana649/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/nayana649/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/nayana649/LeetCode-Solutions/tree/master/0146-lru-cache) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,6 +208,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0141-linked-list-cycle](https://github.com/nayana649/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/nayana649/LeetCode-Solutions/tree/master/0146-lru-cache) |
 ## Stack
 |  |
 | ------- |
@@ -248,4 +250,12 @@ To ensure the solutions here are ready for production/interviews, every submitte
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0143-reorder-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nayana649/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nayana649/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
