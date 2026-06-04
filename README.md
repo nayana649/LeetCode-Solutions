@@ -119,6 +119,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0097-interleaving-string](https://github.com/nayana649/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/nayana649/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/nayana649/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/nayana649/LeetCode-Solutions/tree/master/0127-word-ladder) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0112-path-sum](https://github.com/nayana649/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nayana649/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/nayana649/LeetCode-Solutions/tree/master/0127-word-ladder) |
 ## Array
 |  |
 | ------- |
@@ -162,6 +164,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nayana649/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nayana649/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/nayana649/LeetCode-Solutions/tree/master/0127-word-ladder) |
 ## Divide and Conquer
 |  |
 | ------- |
