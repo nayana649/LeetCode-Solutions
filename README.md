@@ -77,6 +77,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0113-path-sum-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nayana649/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -102,6 +103,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0113-path-sum-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nayana649/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## String
 |  |
 | ------- |
@@ -119,6 +121,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0113-path-sum-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nayana649/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -130,6 +133,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0111-minimum-depth-of-binary-tree](https://github.com/nayana649/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nayana649/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nayana649/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Array
 |  |
 | ------- |
@@ -152,6 +156,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nayana649/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Stack
 |  |
 | ------- |
