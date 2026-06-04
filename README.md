@@ -198,6 +198,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nayana649/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nayana649/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nayana649/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Linked List
 |  |
 | ------- |
@@ -209,6 +210,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0142-linked-list-cycle-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/nayana649/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
@@ -228,6 +230,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0141-linked-list-cycle](https://github.com/nayana649/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0148-sort-list) |
 ## Union-Find
 |  |
 | ------- |
@@ -258,4 +261,12 @@ To ensure the solutions here are ready for production/interviews, every submitte
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nayana649/LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
