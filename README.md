@@ -187,6 +187,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0133-clone-graph](https://github.com/nayana649/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/nayana649/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/nayana649/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -201,6 +202,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/nayana649/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/nayana649/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Stack
 |  |
 | ------- |
@@ -216,6 +218,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | ------- |
 | [0125-valid-palindrome](https://github.com/nayana649/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nayana649/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Union-Find
 |  |
 | ------- |
