@@ -180,6 +180,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0135-candy](https://github.com/nayana649/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/nayana649/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/nayana649/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +193,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0141-linked-list-cycle](https://github.com/nayana649/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/nayana649/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/nayana649/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -269,4 +271,12 @@ To ensure the solutions here are ready for production/interviews, every submitte
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/nayana649/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/nayana649/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
