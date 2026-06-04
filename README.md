@@ -60,16 +60,23 @@ To ensure the solutions here are ready for production/interviews, every submitte
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/nayana649/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/nayana649/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0099-recover-binary-search-tree](https://github.com/nayana649/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 ## String
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/nayana649/LeetCode-Solutions/tree/master/0097-interleaving-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/nayana649/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
