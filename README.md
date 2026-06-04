@@ -69,6 +69,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nayana649/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nayana649/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/nayana649/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -88,6 +89,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nayana649/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nayana649/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/nayana649/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -98,6 +100,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0099-recover-binary-search-tree](https://github.com/nayana649/LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/nayana649/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nayana649/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/nayana649/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
