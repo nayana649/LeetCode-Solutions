@@ -52,6 +52,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/nayana649/LeetCode-Solutions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/nayana649/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -103,6 +104,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/nayana649/LeetCode-Solutions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/nayana649/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 ## Depth-First Search
 |  |
 | ------- |
