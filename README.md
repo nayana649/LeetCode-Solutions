@@ -181,6 +181,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0136-single-number](https://github.com/nayana649/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/nayana649/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nayana649/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -219,6 +220,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/nayana649/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nayana649/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nayana649/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Greedy
 |  |
 | ------- |
@@ -275,6 +277,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/nayana649/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nayana649/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Geometry
 |  |
 | ------- |
