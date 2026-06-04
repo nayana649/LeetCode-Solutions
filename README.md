@@ -118,6 +118,7 @@ To ensure the solutions here are ready for production/interviews, every submitte
 | ------- |
 | [0097-interleaving-string](https://github.com/nayana649/LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/nayana649/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/nayana649/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -181,4 +182,8 @@ To ensure the solutions here are ready for production/interviews, every submitte
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nayana649/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/nayana649/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
